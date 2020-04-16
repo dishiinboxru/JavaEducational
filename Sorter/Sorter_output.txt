@@ -1,0 +1,31 @@
+Beginning of the sorter output
+here comes ascending list
+-5.0
+0.0
+1.0
+2.0
+2.0
+2.1
+10.0
+11.0
+22.0
+here comes descending list
+22.0
+11.0
+10.0
+2.1
+2.0
+2.0
+1.0
+0.0
+-5.0
+here comes original data set
+    0 ;  2,1  ;    2;-5;  2  ;1
+    10
+    11
+22
+here comes certain values 
+Maximum is 22.0
+Minimum is -5.0
+Average is 5.011111111111111
+That's the end of sorting procedure. Thank you for using our services !

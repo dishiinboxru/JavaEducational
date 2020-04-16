@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3d363dc-e0e1-458b-8a70-ebb19938b45b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shimanskii/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-310">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/shimanskii/FilesAndCollectionsGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="53" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shimanskii/LinkedListsOperationsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="93" column="44" selection-start-line="90" selection-start-column="8" selection-end-line="93" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ArrayListsOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ArrayListsPerformanceTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="46" column="9" selection-start-line="40" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/shimanskii/LinkedListsOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0</find>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/shimanskii/TestsStopwatch.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/FileGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ListsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ListsTestable.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ArrayListsTestTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ArrayListsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/FilesAndCollectionsGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/LinkedListsAllTests.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/LinkedListsOperations.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/LinkedListsOperationsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ArrayListsAllTests.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/FilesAndCollectionsGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/SetsStorageOrderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ArrayListsOperations.java" />
+        <option value="$PROJECT_DIR$/Collections_performance_results.txt" />
+        <option value="$PROJECT_DIR$/src/com/shimanskii/ArrayListsPerformanceTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="45" />
+    <option name="width" value="977" />
+    <option name="height" value="549" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="collectionsPerformanceTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectionsPerformanceTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collectionsPerformanceTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectionsPerformanceTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="collectionsPerformanceTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="collectionsPerformanceTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shimanskii" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551344337476" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.shimanskii" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayListsPerformanceTests">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.shimanskii.Main" />
+      <module name="collectionsPerformanceTests" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListsPerformanceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collectionsPerformanceTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shimanskii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shimanskii" />
+      <option name="MAIN_CLASS_NAME" value="com.shimanskii.ArrayListsPerformanceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListsOperationsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collectionsPerformanceTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shimanskii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shimanskii" />
+      <option name="MAIN_CLASS_NAME" value="com.shimanskii.LinkedListsOperationsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetsStorageOrderTest.givenUsingPlainJava_whenGeneratingRandomStringBounded_thenCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collectionsPerformanceTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shimanskii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shimanskii" />
+      <option name="MAIN_CLASS_NAME" value="com.shimanskii.SetsStorageOrderTest" />
+      <option name="METHOD_NAME" value="givenUsingPlainJava_whenGeneratingRandomStringBounded_thenCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetsStorageOrderTest.setsOrderingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="collectionsPerformanceTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shimanskii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shimanskii" />
+      <option name="MAIN_CLASS_NAME" value="com.shimanskii.SetsStorageOrderTest" />
+      <option name="METHOD_NAME" value="setsOrderingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayListsPerformanceTests" />
+        <item itemvalue="JUnit.LinkedListsOperationsTest" />
+        <item itemvalue="JUnit.SetsStorageOrderTest.setsOrderingTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SetsStorageOrderTest.givenUsingPlainJava_whenGeneratingRandomStringBounded_thenCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3d363dc-e0e1-458b-8a70-ebb19938b45b" name="Default Changelist" comment="" />
+      <created>1550824484233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550824484233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayListsPerformanceTests - 2019.02.27 at 12h 57m 00s.xml">
+      <configuration name="ArrayListsPerformanceTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FilesAndCollectionsGeneratorTest_generateHashSet - 2019.02.27 at 12h 58m 03s.xml">
+      <configuration name="FilesAndCollectionsGeneratorTest.generateHashSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 15h 40m 21s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 15h 42m 21s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 16h 01m 08s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 16h 08m 11s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 16h 08m 37s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 16h 13m 28s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListsOperationsTest - 2019.02.27 at 16h 34m 09s.xml">
+      <configuration name="LinkedListsOperationsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListsPerformanceTests - 2019.02.28 at 11h 11m 40s.xml">
+      <configuration name="ArrayListsPerformanceTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="45" width="977" height="549" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25668448" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3891089" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32970297" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/TestsStopwatch.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/io/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections_performance_basic_input.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections_performance_random_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ArrayListsTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ListsTestable.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ArrayListsAllTests.java" />
+    <entry file="file://$PROJECT_DIR$/Collections_performance_results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="76" column="52" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/SetsStorageOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ArrayListsOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/LinkedListsOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/LinkedListsOperationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="93" column="44" selection-start-line="90" selection-start-column="8" selection-end-line="93" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-310">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/ArrayListsPerformanceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="46" column="9" selection-start-line="40" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/shimanskii/FilesAndCollectionsGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

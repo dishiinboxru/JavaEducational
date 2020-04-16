@@ -1,0 +1,58 @@
+Sorter is loading... please standby ...
+reading data to process
+    0 ;  2,1  ;    2;-5;  2  ;1
+sorting, please standby...
+ascending sort starts
+-5.0
+0.0
+1.0
+2.0
+2.0
+2.1
+descending sort starts
+2.1
+2.0
+2.0
+1.0
+0.0
+-5.0
+original data input  starts
+    0 ;  2,1  ;    2;-5;  2  ;1
+Min, max, avg input starts
+Maximum is 2.1
+Minimum is -5.0
+Average is 0.3499999999999999
+That's the end of sorting procedure. Thank you for using our services !
+Sorter is loading... please standby ...
+reading data to process
+    0 ;  2,1  ;    2;-5;  2  ;1
+    10
+    11
+sorting, please standby...
+ascending sort starts
+-5.0
+0.0
+1.0
+2.0
+2.0
+2.1
+10.0
+11.0
+descending sort starts
+11.0
+10.0
+2.1
+2.0
+2.0
+1.0
+0.0
+-5.0
+original data input  starts
+    0 ;  2,1  ;    2;-5;  2  ;1
+    10
+    11
+Min, max, avg input starts
+Maximum is 11.0
+Minimum is -5.0
+Average is 2.8875
+That's the end of sorting procedure. Thank you for using our services !
